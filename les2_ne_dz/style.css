@@ -1,0 +1,26 @@
+h1 {
+    background: green;
+}
+
+h2 {
+    background: pink;
+}
+
+.paragraph-1 {
+    background: green;
+    font-size: 18px;
+    color: aqua;
+    border: 1px solid blue;
+    border-radius: 15px;
+    margin-bottom: 70px; 
+    padding-bottom: 70px;
+    padding-left: 70px;
+}
+
+.paragraph-2 {
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24px;
+    font-family: 'Courier New';
+    font-weight: bold;
+}
